@@ -14,6 +14,6 @@ pip install time
 Instructions for playing:
 Run the file 'slider_bar.py' using any IDE
 Place all the images(.gifs), sound(.wav) along with the python(.py) file in same folder
-Try to press p at the time when the slider stays between the green bar
+Try to press 'p' at the time when the slider stays between the green bar
 If you did it correctly, the green bar will light up and next slider will start to move
 '''
