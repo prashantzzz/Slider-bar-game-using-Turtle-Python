@@ -1,5 +1,4 @@
-# Slider-bar-game-using-Turtle-Python
-
+# Slider bar
 
 Modules used:
 This is a game made wholly using turtle module in python 
